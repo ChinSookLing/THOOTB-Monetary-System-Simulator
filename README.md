@@ -14,7 +14,7 @@
 - 惡意囤積者會被自動標記
 
 ## 直接點這裡玩（不用安裝）
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/你的連結放這裡)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gIERqzf3_LmzC3kTr9cSF_JGTQvNwzNj#scrollTo=2x-fNnGGH3-o)
 
 一人一會計，30 天讓 298 頁白皮書真正活過來。  
 開源 · 免費 · 歡迎 fork · 唯一限制：不得違背 4 條核心原則
