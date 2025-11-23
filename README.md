@@ -4,7 +4,7 @@
 由 Chin Sook Ling 一人獨立開發（會計背景，零資金，30 天完成）
 
 ## 白皮書
-298 頁完整版 v6.0（2025年11月）：[下載 PDF](https://your-link-here.pdf)
+298 頁完整版 v6.0（2025年11月）：[下載 PDF](https://github.com/ChinSookLing/THOOTB-Monetary-System-Simulator/raw/main/THOOTB%20貨幣系統白皮書v6.0%20Updated%2023-11-25.pdf)
 
 ## 核心已經實現功能
 - 每日 TH1000 發放 + 23:59 強制歸零（防通脹）
